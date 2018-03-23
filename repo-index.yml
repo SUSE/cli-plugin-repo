@@ -331,6 +331,33 @@ plugins:
   updated: 2017-04-04T00:00:00Z
   version: 0.0.11
 - authors:
+  - contact: placeholder
+    homepage: https://www.suse.com/
+    name: SUSE LLC
+  binaries:
+  - checksum: bc24b9d3eef9eba624c5105110268fb6fc9283fd
+    platform: osx
+    url: https://github.com/SUSE/cf-plugin-backup/releases/download/1.0.5/cf-plugin-backup-1.0.5.0.gd7c4ed9.darwin-amd64
+  - checksum: 7d510f705abbcc83dab6dabbb336de20b14d985a
+    platform: linux32
+    url: https://github.com/SUSE/cf-plugin-backup/releases/download/1.0.5/cf-plugin-backup-1.0.5.0.gd7c4ed9.linux-386
+  - checksum: 1fd7deca641b321f69e7514294b3bf354ee51bb5
+    platform: linux64
+    url: https://github.com/SUSE/cf-plugin-backup/releases/download/1.0.5/cf-plugin-backup-1.0.5.0.gd7c4ed9.linux-amd64
+  - checksum: 8aa1699fa6ea309d0d48c26710862885390ead86
+    platform: win32
+    url: https://github.com/SUSE/cf-plugin-backup/releases/download/1.0.5/cf-plugin-backup-1.0.5.0.gd7c4ed9.windows-386.exe
+  - checksum: eb4d82ce4fa61a9fb0942ca2f47ea29027a1c90d
+    platform: win64
+    url: https://github.com/SUSE/cf-plugin-backup/releases/download/1.0.5/cf-plugin-backup-1.0.5.0.gd7c4ed9.windows-amd64.exe
+  company: SUSE LLC
+  created: 2018-03-23T22:58:49Z
+  description: A plugin that enables backup and restore of the CCDB via the CF API
+  homepage: https://github.com/SUSE/cf-plugin-backup
+  name: cf-plugin-backup
+  updated: 2018-03-23T22:58:49Z
+  version: 1.0.5
+- authors:
   - contact: stanislav.turlo@altoros.com
     homepage: https://github.com/nobodyzzz
     name: Stanislav Turlo
