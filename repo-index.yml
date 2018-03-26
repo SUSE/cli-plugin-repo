@@ -358,6 +358,27 @@ plugins:
   updated: 2016-09-21T00:00:00Z
   version: 0.0.1
 - authors:
+  - contact: placeholder
+    homepage: https://www.suse.com/
+    name: SUSE LLC
+  binaries:
+  - checksum: c7c402f415dd6c1d4c4e506a2fc77a20cb143985
+    platform: osx
+    url: https://github.com/SUSE/cf-usb-plugin/releases/download/0.0.2/cf-usb-plugin-0.1.0-162e39b-darwin-amd64
+  - checksum: d4a7d67a93be1ad95938b31fc5555bc6886a53ec
+    platform: linux64
+    url: https://github.com/SUSE/cf-usb-plugin/releases/download/0.0.2/cf-usb-plugin-0.1.0-162e39b-linux-amd64
+  - checksum: c943fb3799b7bc59ff3183a792da55739ceb98bd
+    platform: win64
+    url: https://github.com/SUSE/cf-usb-plugin/releases/download/0.0.2/cf-usb-plugin-0.1.0-162e39b-windows-amd64.exe
+  company: SUSE LLC
+  created: 2018-03-26T18:07:26Z
+  description: A plugin that controls the Universal Service Broker (https://github.com/SUSE/cf-usb)
+  homepage: https://github.com/SUSE/cf-usb-plugin
+  name: cf-usb-plugin
+  updated: 2018-03-26T18:07:26Z
+  version: 0.0.2
+- authors:
   - homepage: https://github.com/gambtho
     name: Thomas Gamble
   binaries:
